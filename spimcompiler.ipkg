@@ -1,0 +1,5 @@
+package spimcompiler
+
+opts = "-p contrib -p pruviloj -p derive"
+
+modules = Main, Register, Mush
